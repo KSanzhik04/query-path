@@ -12,5 +12,7 @@
   "autoload": {
     "psr-0": {"QueryPath": "src/"},
     "files": ["src/qp_functions.php"]
-  }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
 }
