@@ -2,7 +2,7 @@
   "name": "ksanzhik/querypath",
   "type": "library",
   "description": "HTML/XML querying (CSS 4 or XPath) and processing (like jQuery)",
-  "homepage": "https://github.com/technosophos/querypath",
+  "homepage": "https://github.com/KSanzhik04/query-path",
   "license": "MIT",
   "keywords": ["xml", "html", "css", "jquery", "xslt"],
   "require" : {
